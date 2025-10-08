@@ -42,8 +42,8 @@ A professional, secure, and scalable Todo management system built with FastAPI. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-fastapi-backend.git
-   cd todo-fastapi-backend
+   https://github.com/MUZAHID0408/Secure_todoApp.git
+   cd Secure_todoApp
    ```
    
 2. **Create and activate virtual environment**
