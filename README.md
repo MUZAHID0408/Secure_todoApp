@@ -70,9 +70,9 @@ A professional, secure, and scalable Todo management system built with FastAPI. 
    
    
 ## 🚀 Running the Application
-
- - uvicorn main:app --reload --host 0.0.0.0 --port 8000
-
+```bash
+ uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
 The application will be available at: http://localhost:8000    
 
 
